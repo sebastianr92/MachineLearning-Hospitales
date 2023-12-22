@@ -1,5 +1,5 @@
 
-# 🚀 Proyecto Machine Learning:
+# 🚀 Machine Learning Project
 Predicción de Hospitalización en Pacientes Sometidos a Biopsia Prostática
 
 Este proyecto de Machine Learning tiene como objetivo realizar un análisis exploratorio de datos (EDA), la preparación y transformación de los datos, y la construcción y evaluación de modelos de Machine Learning para predecir la hospitalización de pacientes sometidos a biopsia prostática. Los modelos utilizados son K-Vecinos y Árboles de Decisión. En el caso de los Árboles de Decisión, se busca determinar el valor óptimo del hiperparámetro de profundidad (K-depth).
